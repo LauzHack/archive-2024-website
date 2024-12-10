@@ -1,0 +1,69 @@
+# Event details, in the separate and unlinked /details page.
+# Beware, YAML/Markdown syntax is a bit tricky:
+# - Use the weird |- syntax to allow answers to span lines.
+# - End lines with two spaces if you want to force a line break, otherwise the line break is ignored.
+
+- label: Location
+  text: |-
+    LauzHack is held at the [BC building](https://maps.app.goo.gl/d79S2W6oHT2TUQ4N8) at EPFL.  
+    The closest airport is Geneva, from which you can take a train to Lausanne or Renens, both of which can get you to EPFL via the metro line M1.  
+    Check out [the Swiss Federal Railways website](https://sbb.ch/en) for itineraries.
+    EPFL's [directions page](https://www.epfl.ch/campus/visitors/coming-to-epfl/) is also useful.
+
+- label: Exclusivity
+  text: |-
+    Only LauzHack attendees may come. Your partner, family, or friends who are not participants cannot come with you.  
+    Even EPFL students who are not attendees cannot use the parts of the building in use by LauzHack during the event.
+
+- label: What to bring
+  text: |-
+    A valid ID, your laptop and charger (we have electrical adapters), toiletries (we have showers), and optionally a sleeping bag if you want to use the sleeping area.
+
+- label: Friday-Saturday night
+  text: |-
+    Please see [our policy](/policies#friday-saturday-hosting).  
+    If you arrive on Friday, you can already check in and get your welcome kit that includes a travel blanket.
+
+- label: Saturday-Sunday night
+  text: |-
+    You may sleep at any time you want, and if you live nearby you are welcome to go home on Saturday evening and come back on Sunday morning.  
+    We will shuttle groups of people to the sleeping area at regular intervals starting Saturday evening.  
+    Everyone will receive a travel blanket as part of the welcome kit.
+
+- label: Travel reimbursement
+  text: |-
+    Please see [our policy](/policies#travel-reimbursement).
+
+- label: Check in
+  text: |-
+    8:00 to 9:30 on Saturday morning.
+    You'll then enjoy breakfast and meet other participants.  
+    Everyone should arrive before 9:30. If you are delayed, please [email the organizers](mailto:lauzhack@epfl.ch) and come to the help desk when you arrive for a late check in.
+
+- label: Schedule
+  text: |-
+    The event ends around 17:00 on Sunday, once the closing ceremony is over and winners have been chosen.  
+    There is an apéro afterwards, but you can leave any time.  
+    The sleeping area is _not_ available for the Sunday-Monday night.  
+    For a detailed schedule, please see [here](/#schedule).
+
+- label: Wi-Fi
+  text: |-
+    Use the "eduroam" Wi-Fi, to which you can connect with university credentials.  
+    If you do not have access to it, EPFL also has a free Wi-Fi network.
+
+- label: The event
+  text: |-
+    You will get 24 hours to build your hack, optionally inspired by our sponsors' challenges.
+    You can be in a team of up to 4, there will be a team-building opportunity before hacking.  
+    After hacking is over, there will be one global ranking from our jury, and one per sponsor challenge.  
+    We also have some fun workshops and games, with small prizes!
+
+- label: Project evaluation
+  text: |-
+    Prizes will be awarded in the global ranking based on (1) how innovative, original, and unexpected your project is;  
+    (2) how convincing your demo is, no slides allowed; and  
+    (3) how impressive your hack is in terms of "wow" factor and technology.  
+    There will also be prizes for sponsor challenges, according to each sponsor's criteria.  
+    _As per our rules, you are encouraged to use existing libraries and APIs, you may even use existing code you wrote,_  
+    _but you must clearly state which parts of your project are novel and which parts you reused._

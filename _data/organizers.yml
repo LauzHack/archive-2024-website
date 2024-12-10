@@ -1,0 +1,96 @@
+# The group organizing the event.
+# PDFs of general assembly minutes must be in pdf/minutes,
+# and a PDF of the statutes in pdf/statutes.pdf.
+# All of this is optional.
+group: the LauzHack Association
+
+# People organizing the event, and their websites.
+# See the ReadMe file for information on pictures.
+people:
+  - given: Adrien
+    family: Gunther
+    link: https://www.linkedin.com/in/adrien-gunther-453565261/
+
+  - given: Alessandro
+    family: Amodio
+    link: https://linkedin.com/in/alessandro-amodio
+
+  - given: Alina (Mingchi)
+    family: Hou
+    link: https://linkedin.com/in/mingchi-hou-771594177
+
+  - given: Amir
+    family: Ammar
+    link: https://linkedin.com/in/amir-ammar-9583a226b
+
+  - given: Antoine
+    family: Reynaud
+    link: https://people.epfl.ch/antoine.reynaud
+
+  - given: Eric
+    family: Bezzam
+    link: https://linkedin.com/in/eric-bezzam-37ab2274
+
+  - given: Florian
+    family: Depraz
+    link: https://www.linkedin.com/in/floriandepraz/
+
+  - given: Güneş
+    family: Özgün
+    link: https://gozgun.github.io
+
+  - given: Jacopo
+    family: Bilotto
+    link: https://linkedin.com/in/jacopo-bilotto-4331491b4
+
+  - given: Kopiga
+    family: Rasiah
+    link: https://linkedin.com/in/kopiga-rasiah-47a42b170
+
+  - given: Luca
+    family: Fusar Bassini
+    link: https://lucafusarbassini.com
+
+  - given: Mariia
+    family: Eremina
+    link: https://linkedin.com/in/mariia-eremina
+
+  - given: Natalia
+    family: Nessler
+    link: https://linkedin.com/in/natalia-nessler-730933149
+
+  - given: Nathalie
+    family: Künzle
+    link: https://linkedin.com/in/nathalie-k%C3%BCnzle-2797b8286
+
+  - given: Pınar
+    family: Oray
+    link: https://www.linkedin.com/in/p%C4%B1nar-oray-780286237/
+
+  - given: Qinyue
+    family: Zheng
+    link: https://linkedin.com/in/qinyue-zheng-526b391a4
+
+  - given: Seyed Parsa
+    family: Neshaei
+    link: https://spneshaei.com
+
+  - given: Simona
+    family: Herren
+    link: https://linkedin.com/in/simona-herren-61725b238
+
+  - given: Solal
+    family: Pirelli
+    link: https://solalpirelli.github.io
+
+  - given: Tatiana
+    family: Porté
+    link: https://linkedin.com/in/tatiana-porte
+
+  - given: Vinitra
+    family: Swamy
+    link: https://vinitra.github.io
+
+  - given: Yassine
+    family: Kouch
+    link: https://linkedin.com/in/yassine-kouch-08b186195

@@ -1,0 +1,8 @@
+includes_dir: .
+
+# Compression parameters for the compress.html layout from https://jch.penibelst.de
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-redirect-from
